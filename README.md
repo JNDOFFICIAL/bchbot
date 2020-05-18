@@ -1,5 +1,5 @@
-# Link BCHClickBot Telegram
-Hargai Refferal : https://t.me/BCH_clickbot?start=VCHD
+# Hargai Refferal : 
+https://t.me/BCH_clickbot?start=VCHD
 
 # Cara Install 
 $ apt update && pkg upgrade<br>
