@@ -4,7 +4,7 @@ Hargai Refferal : https://t.me/BitcoinClick_bot?start=KsJt
 # Cara Install 
 $ apt update && pkg upgrade<br>
 $ apt install python git<br>
-$ cd bchclickbot <br>
+$ cd bchbot <br>
 $ pip3 install -r requirements.txt<br>
 $ python3 main.py phone_number<br>
 
